@@ -2,11 +2,8 @@
 <h3 align="center">A full stack developer living in Berlin</h3>
 
 - 📫 How to reach me **fecafumee@gmail.com**
-- 🌱 Look, listen and **learn**
+- 🌱 I am very curious and a **fast learner.**
 - ⚡ Fun fact **I am also an architect and I'm passionate about design.**
-
-
-![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=fercfmsouza&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fercfmsouza&layout=compact)
 
