@@ -3,6 +3,7 @@
 
 - 📫 How to reach me **fecafumee@gmail.com**
 - 🌱 I am very curious and a **fast learner.**
+- 🤝 I’m looking for an oportunity to get in the **tech market.**
 - ⚡ Fun fact **I am also an architect and I'm passionate about design.**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fercfmsouza&layout=compact)
