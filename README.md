@@ -8,10 +8,10 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🌱 I am very curious and a **fast learner.**
-- ⚡ Fun fact **I am also an architect and I'm passionate about design.**
-- 📫 How to reach me **fecafumee@gmail.com**
+- 🌱 I am curious and a **fast learner.**
 - 🤝 I'm currently looking for a **new opportunity.**
+- 📫 How to reach me **fecafumee@gmail.com**
+- ⚡ Fun fact **I am also an architect and I'm passionate about design.**
 
 <h3 align="left">Languages and Tools:</h3>
 
