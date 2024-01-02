@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fernanda</h1>
 
-<h3 align="center">A Frontedn Developer living in Berlin</h3>
+<h3 align="center">A Frontend Developer living in Berlin</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/fernanda-souza-928989239/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="fernanda-souza" /></a>
 <a href = "mailto: fecafumee@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="fernanda-souza" /></a>
