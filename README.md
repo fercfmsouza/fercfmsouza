@@ -35,16 +35,31 @@
 
 <h3 align="left">Projects:</h3>
 <p align="left">
- <a href="https://petssocialmedia.netlify.app" target="blank">Pets - Social Media</a>
-  <p>Social media platform to share your pet's best pictures and see how popular they get. Check your friend's pet profile, like their posts and share your thoughts in the comments. Web application using React.js on frontend and NodeJS, MongoDB, REST APIs, Mongoose, Bcrypt for encryption and Cloudinary with Multer to upload images. (Bootcamp Ironhack)
+  <a href="https://jokers-burger.vercel.app/" target="blank">Joke's Burger - Website</a>
+  <p>Creating the prototype in <strong>Figma</strong> from scratch and developing it with <strong>JavaScript, CSS, HTML and React technology (Vite)</strong>, some standout features:
   </p>
   
-  <a href="https://newfuture.cyclic.app" target="blank">New Future - Professional Media</a>
-  <p>This is a platform to connect the best professional artists with the best customers. Web application using server side render with Handlebars on frontend and NodeJS, MongoDB, REST APIs, Mongoose, Bcrypt for encryption and Cloudinary with Multer to upload images. (Bootcamp Ironhack)
+- Integration with Google Maps: Easily find your way to Joker's Burger with the help of the Google Maps API. 
+- Interactive menu: A user-friendly accordion list for the menu, making it easy to explore the offerings. 
+- The project uses PropTypes to define and apply the expected data types of props passed to certain React components.
+- Deployed the entire project with Vercel. (Freelance Project)
+  
+ <a href="https://petssocialmedia.netlify.app" target="blank">Pets - Social Media</a>
+  <p>Social media platform to share your pet's best pictures and see how popular they get. Check your friend's pet profile, like their posts and share your thoughts in the comments. 
   </p>
+    
+- Web application using <strong>React.js</strong> on frontend.
+- Backend: <strong>NodeJS, MongoDB, REST APIs, Mongoose, Bcrypt for encryption and Cloudinary</strong> with Multer to upload images. (Ironhack's Bootcamp)
+  
+ <a href="https://newfuture.cyclic.app" target="blank">New Future - Professional Media</a>
+  <p>This is a platform to connect the best professional artists with the best customers.
+  </p>
+
+  - Web application using server side render with <strong>Handlebars</strong> on frontend.
+  - Backend: <strong>NodeJS, MongoDB, REST APIs, Mongoose, Bcrypt for encryption and Cloudinary</strong> with Multer to upload images. (Ironhack's Bootcamp)
   
   <a href="https://fercfmsouza.github.io/feeding-naruto" target="blank">Feeding Naruto - Game</a>
-  <p>This is a game challenge. I used HTML (with canvas graphic), CSS and plain JavaScript with DOM manipulation and OOP. The game was deployed online using GitHub Pages so that anybody can play it. (Bootcamp Ironhack)
+  <p>This is a game challenge. I used <strong>HTML (with canvas graphic), CSS and plain JavaScript with DOM manipulation and OOP</strong>strong>. The game was deployed online using GitHub Pages so that anybody can play it. (Ironhack's Bootcamp)
   </p>
 </p>
 
