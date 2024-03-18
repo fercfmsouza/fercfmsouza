@@ -12,6 +12,8 @@
 - 🤝 I'm currently looking for a **new opportunity.**
 - 📫 How to reach me **fecafumee@gmail.com**
 - ⚡ Fun fact **I am also an architect and I'm passionate about design.**
+- 🔗 <a href="https://fernandasouza.vercel.app/" target="blank">Check out my portfolio.</a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
