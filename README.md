@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/fernanda-souza-928989239/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="fernanda-souza" /></a>
 <a href = "mailto: fecafumee@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="fernanda-souza" /></a>
-  <a href="https://fernandasouza.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="fernanda-souza-website" /></a>
+  <a href="https://fernandasouza.dev" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="fernanda-souza-website" /></a>
 </p>
 
 <h3 align="left">About Me:</h3>
